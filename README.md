@@ -23,7 +23,7 @@ Certifique-se de que você tem as ferramentas necessárias instaladas:
 1. **Clone este repositório**:
    ```bash
    git clone https://github.com/le123456/app-calculator.git
-   cd nome-do-repositorio
+   cd app-calculator
    ```
 
 2. **Instale as dependências**:
